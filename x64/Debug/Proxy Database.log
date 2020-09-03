@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\pavel\source\repos\Proxy Database\Proxy Database\Source.cpp(29,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\Proxy Database\Proxy Database\Source.cpp(91,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\Proxy Database\Proxy Database\Source.cpp(38): warning C4715: 'Database::Connect': not all control paths return a value
+  Proxy Database.vcxproj -> C:\Users\pavel\source\repos\Proxy Database\x64\Debug\Proxy Database.exe
